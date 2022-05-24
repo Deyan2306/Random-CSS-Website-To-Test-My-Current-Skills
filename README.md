@@ -1,5 +1,6 @@
 # A website (exercise) made to show how amazing the language is.
 ### The website is not made for public use. It simply serves as an exercise in learning CSS.
+###### Still the registration form is not working, but I plan on adding functionality on it.
 
 > Quick DEMO of the website: https://deyan2306.github.io/CSS-is-awesome-website/
 
